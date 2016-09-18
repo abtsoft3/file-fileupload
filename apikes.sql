@@ -2383,7 +2383,7 @@ ALTER TABLE `krs`
 --
 -- Metadata
 --
---USE `phpmyadmin`;
+
 
 --
 -- Metadata for admins
